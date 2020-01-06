@@ -1,7 +1,9 @@
 # B0XX-vJoy
 Emulate the B0XX on Keyboard with vJoy and AutoHotkey
 
-> Hey! the past few days I've been programing a virtual B0XX in vJoy/AutoHotkey based on the manual and manifesto. It allows you to play in Dolphin with the Keyboard emulating the B0XX layout and outputs.
+---
+
+Hey! the past few days I've been programing a virtual B0XX in vJoy/AutoHotkey based on the manual and manifesto. It allows you to play in Dolphin with the Keyboard emulating the B0XX layout and outputs.
 
 What's in:
 
@@ -51,9 +53,9 @@ To install it:
 
 6- You can change your hotkeys by right clicking the small icon in the bottom right, and clicking Edit Controls.
 
-
 Note: If some combinations are not working, you need a higher Rollover keyboard.
 
+---
 
 Feel free to ask me anything. Also thanks to squible for making the first smashbox version which I edited to play like a B0XX.
 
