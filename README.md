@@ -55,11 +55,9 @@ To install it:
 
 6- You can change your hotkeys by right clicking the small icon in the bottom right, and clicking Edit Controls.
 
-Note: If some combinations are not working, you need a higher Rollover keyboard.
 
-Note 2: You'll need to change some Dolphin's savestate shortcuts to use the F keys.
 
 ---
 
-Feel free to ask me anything in the 20XX Discord. Also thanks to squible for making the first smashbox version which I edited to play like a B0XX.
+Feel free to ask me anything in the 20XX Discord. Also thanks to squible for making the first smashbox version which inspired me.
 
