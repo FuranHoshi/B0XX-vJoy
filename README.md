@@ -21,7 +21,7 @@ What's in:
 
 -Airdodge restrictions
 
--Keep horizontal momentum for optimal ledgedash when both horizontals held
+-Full horizontal momentum for optimal ledgedash when both horizontals held
 
 -Angled Fsmash with cstick & modX & U/D
 
