@@ -57,5 +57,5 @@ Note: If some combinations are not working, you need a higher Rollover keyboard.
 
 ---
 
-Feel free to ask me anything. Also thanks to squible for making the first smashbox version which I edited to play like a B0XX.
+Feel free to ask me anything in the 20XX Discord. Also thanks to squible for making the first smashbox version which I edited to play like a B0XX.
 
