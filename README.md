@@ -5,6 +5,8 @@ Emulate the B0XX on Keyboard with vJoy and AutoHotkey
 
 Hey! the past few days I've been programing a virtual B0XX in vJoy/AutoHotkey based on the manual and manifesto. It allows you to play in Dolphin with the Keyboard emulating the B0XX layout and outputs.
 
+---
+
 What's in:
 
 -Override method
